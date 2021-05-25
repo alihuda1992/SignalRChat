@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{72F5CCEA-5C53-40A9-99E0-2D7D40EBC95A}|Default">
+  <MonoDevelop.Ide.ItemProperties.SignalRChat PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignalRChat/Pages/Shared/_ValidationScriptsPartial.cshtml">
+    <Files>
+      <File FileName="SignalRChat/Hubs/ChatHub.cs" Line="13" Column="2" />
+      <File FileName="SignalRChat/Startup.cs" Line="56" Column="55" />
+      <File FileName="SignalRChat/Pages/Index.cshtml" Line="30" Column="37" />
+      <File FileName="SignalRChat/wwwroot/js/chat.js" Line="30" Column="4" />
+      <File FileName="SignalRChat/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="SignalRChat/Pages/Shared/_Layout.cshtml" Line="43" Column="48" />
+      <File FileName="SignalRChat/Pages/Index.cshtml.cs" Line="7" Column="36" />
+      <File FileName="SignalRChat/Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="SignalRChat/Pages/Error.cshtml" Line="1" Column="1" />
+      <File FileName="SignalRChat/Pages/Shared/_ValidationScriptsPartial.cshtml" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SignalRChat" expanded="True">
+            <Node name="SignalRChat" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_ValidationScriptsPartial.cshtml" selected="True" />
+                </Node>
+                <Node name="Error.cshtml" expanded="True" />
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
